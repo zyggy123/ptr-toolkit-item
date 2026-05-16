@@ -1,4 +1,4 @@
-
+ <p align="center"> <img src="https://github.com/zyggy123/ptr-toolkit-item/blob/main/icon.png" width="200" /> </p>
 
 # 🛠️ mod-ptr-toolkit (Eluna Script for AzerothCore)
 
