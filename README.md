@@ -5,7 +5,7 @@
 A powerful **Eluna Lua Engine** script designed for AzerothCore 3.3.5a (Wrath of the Lich King). It introduces an interactive custom item (**PTR Toolkit**) built specifically for PTR (Public Test Realm) or development environments. 
 
 Right-clicking the item directly from your inventory opens a comprehensive **Gossip Menu**, eliminating the need for a physical NPC or targeting any entity.
-
+ <p align="center"> <img src="https://github.com/zyggy123/ptr-toolkit-item/blob/main/PTR%20Toolkit.png" width="200" /> </p>
 ---
 
 ## 🌟 Features
